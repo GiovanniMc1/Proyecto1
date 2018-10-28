@@ -1,0 +1,6 @@
+/*Selectores de presencia y valor*/
+/* todos los elementos con  "data-vegetable"
+su texto es verde */
+[data-vegetable] {
+  color: green;
+}
